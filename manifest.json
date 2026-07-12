@@ -1,0 +1,21 @@
+{
+  "name": "Pixel-Pic",
+  "short_name": "Pixel-Pic",
+  "description": "Turn any photo into a polished, enhanced profile pic",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#111122",
+  "theme_color": "#111122",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
